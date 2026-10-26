@@ -147,7 +147,7 @@ Explore my data-analysis work, including exploratory analysis, business metrics,
   <a href="https://github.com/ViDev897">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=55E6FF" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/vidushi087">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=55E6FF" />
   </a>
 </p>
